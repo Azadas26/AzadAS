@@ -5,6 +5,6 @@
 - 💞️ I’m looking to collaborate with other Developers
 - 📫 How to reach me azad45518@gmail.com
 <!---
-vishnuravi-in/vishnuravi-in is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+azadas26/AzadAS is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
